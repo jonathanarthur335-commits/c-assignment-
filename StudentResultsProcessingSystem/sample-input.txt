@@ -1,0 +1,31 @@
+1
+Evans Obu
+CSE/001/24
+Computer Science
+200
+105
+85
+78
+70
+90
+75
+Ama Mensah
+CSE/002/24
+Information Technology
+200
+92
+88
+84
+91
+89
+Kojo Asare
+CSE/003/24
+Computer Science
+200
+45
+56
+48
+62
+49
+2
+3
